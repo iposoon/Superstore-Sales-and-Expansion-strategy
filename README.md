@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/101726623/235484439-cc348e38-5a4b-48a5-aee0-ad5de3ea35ee.png)
 
 ### 3. Business Questions
-- Presenting business situation in international markets to Senior Manager
+- Presenting business situation in international markets to Senior Manager.
 - Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
 ## II. Design Thinking Method
 **Here are the five steps of design thinking:**
