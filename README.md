@@ -44,31 +44,31 @@
 ![image](https://user-images.githubusercontent.com/101726623/235497321-196e669a-c4c0-4317-810c-bd368e432e52.png)
 
 ## IV. Insights
-1, Our top 5 biggest markets are: APAC, LATAM, EU, US, EMEA.
+1, Our top 5 biggest markets are: **APAC, LATAM, EU, US, EMEA**.
 
-2, Popular customers are "Consumer" and "Corporate" accounted for a total of : ~ 82%.
+2, Popular customers are "Consumer" and "Corporate" accounted for a total of : ~ **82%**.
 
 3, Standard class is common shipping method.
 
 4, United state is the country with the largest number of orders.
 
-5, Profit and Sales tend to reach Max at the end of the year (Q4) and Min at the beginning of the year (Q1).
+5, Profit and Sales tend to reach Max at the end of the year (**Q4**) and Min at the beginning of the year (**Q1**).
 
 6, Our popular customers according to Market are: APAC, LATAM, EU, US, EMEA and AVG, the size of the cart is: APAC > EU > US > LATAM > AFRICA, respectively.
 
 7, Our popular customers by Region are : Central EU, EMEA, Africa, OCEANIA APAC, WEST US.
 
-8, "Office Supplies" is the category mainly ordered by customers.
+8, **Office Supplies** is the category mainly ordered by customers.
 
 9, According to profit,
 * Technology is the most profitable category.
 * Consumer is the most profitable segment.
-→ APAC is the market where we have the highest profit ~ 0.44M and Central EU is the Market region with the highest profit.
+→ **APAC** is the market where we have the highest profit ~ 0.44M and **Central EU** is the Market region with the highest profit.
 
 10, According to Return of Sales (ROS)
 * Technology and Office supplies bring the highest ROS
 * As for Segment, it's the same about ROS
-* Canada is the market that brings the highest ROS
+* **Canada** is the market that brings the highest ROS
 
 ## V. Recommendations
 **Market expansion strategy and key products**
